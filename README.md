@@ -1,1 +1,2 @@
 # Model Explainability in Bert-Based Turkish Sentiment Analysis Model
+In that Project an explainability model that can be applied to BERT-based Turkish sentiment analysis models has been developed and its performance has been compared with model spesific Layer-wise relevance propogation expailanbility model of Hila Chefer. Within the scope of the project, Model-agnostic method, LIME, SHAP, Layer-wise relevance propagation, BERT, POS-Tag, WordNet were used.
