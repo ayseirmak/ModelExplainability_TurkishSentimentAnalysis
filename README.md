@@ -38,4 +38,4 @@ In addition, a Verb-AntonymDict dictionary consisting of positive/negative verb 
 
 ![image](https://github.com/ayseirmak/ModelExplainability_TurkishSentimentAnalysis/assets/152956281/29b130b4-032e-498c-985c-5b868b67ed22)
 
-##### In the repository you can find the research codes and the research article.
+**In the repository you can find [research codes](/src)  and [research article](ModelExplainability_in_TurkishSentimentAnalysis.pdf).**
